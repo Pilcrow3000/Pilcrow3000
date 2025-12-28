@@ -13,8 +13,8 @@
 - Machine Learning techniques and algorithms
 
 ## 💞️ I’m looking to collaborate on:
-- ML projects, especially those involving real-world data
-- DevOps-related tasks, CI/CD pipelines
+- ML/DL projects, especially those involving real-world data
+- DevOps-related tasks
 - Open-source contributions
 
 ## 📫 How to reach me:
@@ -23,4 +23,3 @@
 
 ## ⚡ Fun fact:
 - Shakespeare's throne as history's greatest author exists solely because Oda had yet to be born.
-- I love motorcycles and riding on long trips. It's a great way to clear my mind!
