@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Pilcrow3000.
+# 👋 Hi, I’m @Pilcrow3000
 
 ## 👀 I’m interested in:
 - Machine Learning
