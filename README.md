@@ -4,7 +4,7 @@
 - Machine Learning
 - DevOps, Git, Docker, and containers
 - Data Structures and Algorithms
-- Software Development.
+- Software Development
 
 ## 🌱 I’m currently learning:
 - AI (Artificial Intelligence)
